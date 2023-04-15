@@ -1,0 +1,10 @@
+Player1,73
+Player1,55
+Player1,17
+Player1,16
+SkyWalker, 15
+FireFox, 13
+IronMan, 11
+Moonlight, 10
+Thunder, 9
+StarLight, 7
